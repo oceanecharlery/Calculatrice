@@ -9,7 +9,7 @@
 ### Features
 
 - Addition
-- Soustraction
+- Substraction
 - Multiplication
 - Division
 - Deletion of one or more elements of the current entry
